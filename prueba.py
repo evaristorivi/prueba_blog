@@ -18,7 +18,7 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 
 #Título
-st.title("Ejemplo v2")
+st.title("Ejemplo")
 
 #Input de texto
 Texto  = st.text_input('Escribe aquí', '')
